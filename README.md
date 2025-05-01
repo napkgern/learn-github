@@ -1,2 +1,2 @@
 # learn-github
-comsci sut
+We are learn git and github
